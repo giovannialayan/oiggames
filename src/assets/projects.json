@@ -1,0 +1,67 @@
+{
+  "projectSections": [
+    {
+      "title": "games",
+      "projects": [
+        {
+          "title": "don't not live",
+          "image": "dnl_image.png",
+          "links": [
+            { "name": "steam", "url": "https://store.steampowered.com/app/2498920/dont_not_live/" },
+            { "name": "itch.io", "url": "https://oig.itch.io/dont-not-live" }
+          ]
+        },
+        {
+          "title": "The Heroes Keep Dying",
+          "image": "thkd_image.png",
+          "links": [
+            { "name": "steam", "url": "" },
+            { "name": "itch.io", "url": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "web games",
+      "projects": [
+        {
+          "title": "syfer",
+          "image": "",
+          "links": [{ "name": "", "url": "" }]
+        },
+        {
+          "title": "ultimate tic tac toe",
+          "image": "",
+          "links": [
+            {
+              "name": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/",
+              "url": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "websites",
+      "projects": [
+        {
+          "title": "JD Viewer",
+          "image": "",
+          "links": [{ "name": "https://giovannialayan.github.io/jd-viewer/", "url": "https://giovannialayan.github.io/jd-viewer/" }]
+        },
+        {
+          "title": "ListList",
+          "image": "",
+          "links": [{ "name": "https://giovannialayan.github.io/listlist/", "url": "https://giovannialayan.github.io/listlist/" }]
+        },
+        {
+          "title": "smash selective random",
+          "image": "",
+          "links": [
+            { "name": "https://giovannialayan.github.io/smash-selective-random/", "url": "https://giovannialayan.github.io/smash-selective-random/" }
+          ]
+        }
+      ]
+    }
+  ]
+}
