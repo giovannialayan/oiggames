@@ -1,0 +1,15 @@
+.projectsParent {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 5rem;
+}
+
+@media (max-width: 576px) {
+  .projectsParent {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 2rem;
+  }
+}

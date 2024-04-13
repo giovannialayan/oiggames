@@ -9,11 +9,15 @@ interface Props {
 function Project({ title, image, links }: Props) {
   return (
     <div>
-      <p className='fs-2'>{title}</p>
-      <img className='projectImage' src={image}></img>
+      <p className='fs-2 mb-1'>{title}</p>
+      {image && <img className='projectImage' src={image}></img>}
       <div className='d-flex flex-column fs-5'>
         {links.map((link) => {
-          return <a href={link.url}>{link.name}</a>;
+          return (
+            <a key={link.name} href={link.url}>
+              {link.name}
+            </a>
+          );
         })}
       </div>
     </div>

@@ -1,0 +1,16 @@
+.kofiButton {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+}
+
+@media (max-width: 576px) {
+  .kofiButton {
+    position: static;
+    margin: 1rem 1rem 0 auto;
+    /* bottom: auto;
+    left: auto;
+    right: 1rem;
+    top: 1rem; */
+  }
+}

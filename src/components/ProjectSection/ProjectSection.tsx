@@ -1,4 +1,5 @@
 import { ReactElement } from 'react';
+import './ProjectSection.css';
 
 interface Props {
   children: ReactElement[];
@@ -8,8 +9,8 @@ interface Props {
 function ProjectSection({ children, title }: Props) {
   return (
     <div>
-      <p className='fs-1'>{title}</p>
-      <div className='d-flex flex-row justify-content-center gap-5'>{children}</div>
+      <p className='fs-1 mb-1'>{title}</p>
+      <div className='projectsParent'>{children}</div>
     </div>
   );
 }

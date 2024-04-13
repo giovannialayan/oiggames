@@ -14,10 +14,7 @@
         {
           "title": "The Heroes Keep Dying",
           "image": "thkd_image.png",
-          "links": [
-            { "name": "steam", "url": "" },
-            { "name": "itch.io", "url": "" }
-          ]
+          "links": []
         }
       ]
     },
@@ -26,18 +23,8 @@
       "projects": [
         {
           "title": "syfer",
-          "image": "",
-          "links": [{ "name": "", "url": "" }]
-        },
-        {
-          "title": "ultimate tic tac toe",
-          "image": "",
-          "links": [
-            {
-              "name": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/",
-              "url": "https://giovannialayan.github.io/ultimate-tic-tac-toe-web/"
-            }
-          ]
+          "image": "syfer_image.png",
+          "links": [{ "name": "syfergame.com", "url": "https://syfergame.com/" }]
         }
       ]
     },
@@ -47,19 +34,27 @@
         {
           "title": "JD Viewer",
           "image": "",
-          "links": [{ "name": "https://giovannialayan.github.io/jd-viewer/", "url": "https://giovannialayan.github.io/jd-viewer/" }]
+          "links": [{ "name": "giovannialayan.github.io/jd-viewer", "url": "https://giovannialayan.github.io/jd-viewer/" }]
         },
         {
           "title": "ListList",
           "image": "",
-          "links": [{ "name": "https://giovannialayan.github.io/listlist/", "url": "https://giovannialayan.github.io/listlist/" }]
+          "links": [{ "name": "giovannialayan.github.io/listlist", "url": "https://giovannialayan.github.io/listlist/" }]
         },
         {
           "title": "smash selective random",
           "image": "",
-          "links": [
-            { "name": "https://giovannialayan.github.io/smash-selective-random/", "url": "https://giovannialayan.github.io/smash-selective-random/" }
-          ]
+          "links": [{ "name": "giovannialayan.github.io/smash-selective-random", "url": "https://giovannialayan.github.io/smash-selective-random/" }]
+        }
+      ]
+    },
+    {
+      "title": "mods",
+      "projects": [
+        {
+          "title": "Oig's Items (RoR2)",
+          "image": "oigsitems_image.png",
+          "links": [{ "name": "thunderstore.io/package/oig/OigsItems", "url": "https://thunderstore.io/package/oig/OigsItems/" }]
         }
       ]
     }
