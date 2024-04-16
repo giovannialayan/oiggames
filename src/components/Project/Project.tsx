@@ -14,7 +14,7 @@ function Project({ title, image, links }: Props) {
       <div className='d-flex flex-column fs-5'>
         {links.map((link) => {
           return (
-            <a key={link.name} href={link.url}>
+            <a key={link.name} href={link.url} target='_blank'>
               {link.name}
             </a>
           );

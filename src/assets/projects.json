@@ -14,7 +14,7 @@
         {
           "title": "The Heroes Keep Dying",
           "image": "thkd_image.png",
-          "links": []
+          "links": [{ "name": "itch.io", "url": "https://oig.itch.io/the-heroes-keep-dying" }]
         }
       ]
     },

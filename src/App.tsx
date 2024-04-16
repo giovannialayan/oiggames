@@ -9,6 +9,7 @@ function App() {
     <div className='d-flex flex-column align-items-center mb-5'>
       <KoFiButton></KoFiButton>
       <div className='d-flex flex-column align-items-center gap-4'>
+        <p className='title'>oig games</p>
         {data.projectSections.map((section) => {
           return (
             <ProjectSection key={section.title} title={section.title}>
